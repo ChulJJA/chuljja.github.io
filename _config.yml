@@ -32,7 +32,7 @@ github:
   username: chuljja # change to your github username
 
 instagram:
-  username: twitter_username # change to your twitter username
+  username: chuljja999 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -41,11 +41,11 @@ social:
   email: fpsemfaos@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://www.instagram.com/chuljja999 # change to your twitter homepage
     - https://github.com/chuljja # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/chulseung-lee
 
 google_site_verification: # fill in to your verification string
 
@@ -66,7 +66,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
