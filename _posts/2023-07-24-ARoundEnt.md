@@ -6,4 +6,18 @@ tags: [work, front-end, jquery, html, css, javascript, squarespace, wordpress]  
 image: /assets/A_Round_Ent_Logo.png
 ---
 
-![img-description](/assets/ChulSeung_Lee_Resume.jpg)
+<p>
+    <h1> <strong>Date</strong> </h1>
+    <h3><li> 07.2023 ~ current </li></h3>
+</p>
+
+<p>
+    <h1> <strong>Role</strong> </h1>
+    <h3><li> Front-End Developer Intern </li></h3>
+</p>
+
+<p>
+    <h2> <strong>Contribution</strong> </h2>
+    <li> <a href = "https://www.aroundentgroup.com/"> A Round Entertainment </a> </li>
+    <li> <a href = "https://www.allthatgroups.com/"> All That </a> </li>
+</p>
